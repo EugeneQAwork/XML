@@ -1,1 +1,9 @@
-
+<?xml version="1.0"?>
+<bag_report>
+  <summary>problem</summary>
+  <severity>trivial-blocker</severity>
+  <priority>low-high</priority>
+  <expected_result>correct result</expected_result>
+  <attachment>file</attachment>
+</bag_report>  
+  
